@@ -1,0 +1,13 @@
+{
+    "name": "php/usergroups",
+    "description": "Get started with attending User Groups",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Dohms",
+            "email": "rdohms@gmail.com"
+        }
+    ],
+    "require": {}
+}
